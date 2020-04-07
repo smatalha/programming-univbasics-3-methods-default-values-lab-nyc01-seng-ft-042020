@@ -1,4 +1,4 @@
-def meal_choice(broccoli, macaroni)
+def meal_choice(veg1, veg2, protien = "tofu")
   puts "What a nutritious meal!"
-  return "A plate of tofu with #{broccoli} and #{macaroni}."
+  return "A plate of #{protien} with #{broccoli} and #{macaroni}."
 end
