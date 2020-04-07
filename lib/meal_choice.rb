@@ -1,3 +1,3 @@
-def meal_choice("broccoli", "macaroni")
+def meal_choice(broccoli, macaroni)
   puts "What a nutritious meal!"
 end
